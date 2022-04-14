@@ -5,6 +5,6 @@ public class DodawanieApplication {
     }
     public int added(int a, int b)
     {
-        return a*b;
+        return a+b;
     }
 }
